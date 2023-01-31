@@ -1,0 +1,10 @@
+C:\Users\mahmoud\Documents\Visual Studio 2008\Projects\AccessXamppInstaller\AccessXamppInstaller\bin\Debug\AccessXamppInstaller.exe
+C:\Users\mahmoud\Documents\Visual Studio 2008\Projects\AccessXamppInstaller\AccessXamppInstaller\bin\Debug\AccessXamppInstaller.pdb
+C:\Users\mahmoud\Documents\Visual Studio 2008\Projects\AccessXamppInstaller\AccessXamppInstaller\bin\Debug\AccessXamppInstaller.xml
+C:\Users\mahmoud\Documents\Visual Studio 2008\Projects\AccessXamppInstaller\AccessXamppInstaller\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mahmoud\Documents\Visual Studio 2008\Projects\AccessXamppInstaller\AccessXamppInstaller\obj\Debug\AccessXamppInstaller.Main.resources
+C:\Users\mahmoud\Documents\Visual Studio 2008\Projects\AccessXamppInstaller\AccessXamppInstaller\obj\Debug\AccessXamppInstaller.Resources.resources
+C:\Users\mahmoud\Documents\Visual Studio 2008\Projects\AccessXamppInstaller\AccessXamppInstaller\obj\Debug\AccessXamppInstaller.vbproj.GenerateResource.Cache
+C:\Users\mahmoud\Documents\Visual Studio 2008\Projects\AccessXamppInstaller\AccessXamppInstaller\obj\Debug\AccessXamppInstaller.exe
+C:\Users\mahmoud\Documents\Visual Studio 2008\Projects\AccessXamppInstaller\AccessXamppInstaller\obj\Debug\AccessXamppInstaller.xml
+C:\Users\mahmoud\Documents\Visual Studio 2008\Projects\AccessXamppInstaller\AccessXamppInstaller\obj\Debug\AccessXamppInstaller.pdb
