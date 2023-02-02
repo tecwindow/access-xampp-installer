@@ -3,11 +3,10 @@ Access to install/uninstall xampp by screen readers
 
 ![Xampp logo](https://github.com/tecwindow/access-xampp-installer/imgxampp.png)
 
-# What is Xampp?
+## What is Xampp?
 XAMPP is a program package of free software, originally mainly in the environment of the LAMP system. XAMPP enables the installation and configuration of the web server Apache with the database MariaDB (replaced MySQL in October 2015) or SQLite and the scripting languages ​​Perl and PHP (with PEAR). The X ("cross-platform") stands for the different operating systems on which it can be used. XAMPP also includes other useful tools such as the FTP server ProFTPD or FileZilla Server, the mail server Mercury, phpMyAdmin, Webalizer and OpenSSL. From version 1.7.4 onwards, the Windows variant also includes the web server and web container Apache Tomcat 7, which enables the execution of JavaServer Pages and Java Servlets.
 
 ## access-xampp-installer
-
 Xampp is a popular software suite that provides web developers with a local environment for testing web applications. However, the installation and uninstallation of Xampp can be challenging for users who rely on screen readers. To solve this problem, a tool has been developed to make the process of installing and uninstalling Xampp easier and more accessible.
 
 ## how to use?
