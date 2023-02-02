@@ -19,3 +19,8 @@ The tool is open-source and has been developed using Visual Basic .NET. This mea
 
 ## conclusion
 In conclusion, the tool is an excellent solution for anyone who wants to install and uninstall Xampp with ease. With its customizable installation options, language selection, and other important features, it provides a convenient and accessible way for web developers to work with Xampp.
+
+## developers:
+* MahmoudAtef https://github.com/MahmoudAtefFarook
+* MesterPerfect https://github.com/mesterPerfect
+* QaisAlrefai https://github.com/QaisAlrefai
